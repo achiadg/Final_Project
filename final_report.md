@@ -1981,7 +1981,7 @@ plt.show()
     
 
 
-![Image of github's cat](/images/photo6.PNG)
+![Image of github's cat](/images/photo6.png)
 
 
 ## conclusions
