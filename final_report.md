@@ -345,7 +345,7 @@ plt.show()
 ```
 
 
-![Image of github's cat](/images/photo1.PNG)
+![Image of github's cat](/images/photo1.png)
 
 
 Here we could see that for the last 50 tweets of each person, the Naive_Bayes score is the best score
@@ -1608,7 +1608,7 @@ plt.show()
     
 
 
-![Image of github's cat](/images/photo2.PNG)
+![Image of github's cat](/images/photo2.png)
 
 
 ## Logistic Regression Result
@@ -1702,7 +1702,7 @@ plt.show()
     
 
 
-![Image of github's cat](/images/photo3.PNG)
+![Image of github's cat](/images/photo3.png)
 
 
 ## SVC Result
@@ -1795,7 +1795,7 @@ plt.show()
     
 
 
-![Image of github's cat](/images/photo4.PNG)
+![Image of github's cat](/images/photo4.png)
 
 
 ## KNN Result
@@ -1888,7 +1888,7 @@ plt.show()
     
 
 
-![Image of github's cat](/images/photo5.PNG)
+![Image of github's cat](/images/photo5.png)
 
 
 ## Random Forest Result
